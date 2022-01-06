@@ -1,0 +1,9 @@
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\bin\Debug\EnglishKeyboardFix.exe.config
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\bin\Debug\EnglishKeyboardFix.exe
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\bin\Debug\EnglishKeyboardFix.pdb
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\obj\Debug\EnglishKeyboardFix.csproj.AssemblyReference.cache
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\obj\Debug\EnglishKeyboardFix.Properties.Resources.resources
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\obj\Debug\EnglishKeyboardFix.csproj.GenerateResource.cache
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\obj\Debug\EnglishKeyboardFix.csproj.CoreCompileInputs.cache
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\obj\Debug\EnglishKeyboardFix.exe
+D:\VS\EnglishKeyboardFix\EnglishKeyboardFix\obj\Debug\EnglishKeyboardFix.pdb
