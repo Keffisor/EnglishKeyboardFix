@@ -9,5 +9,5 @@ En el caso de Windows 10/11 la ruta es "C:\Users\TU USUARIO DEL PC\AppData\Roami
 Para hacer la < y >, tendréis que pulsar en el teclado con layout US el CTRL + < / CTRL + >.
 
 <h2>Requisitos</h2>
-- Sistema operativo Windows
+- Sistema operativo Windows<br>
 - Tener .NET Framework 4.7.2 (En Windows 10/11 ya viene instalado)
