@@ -1,6 +1,6 @@
 <h1>Información</h1>
 
-Su instalación costa de simplemente ejecutar el exe que se encuentra en releases.
+Su instalación consta de simplemente ejecutar el exe que se encuentra en releases.
 
 Recomiendo poner el exe en el Startup de Windows para que así cada vez que inicies el ordenador se inicie el programa. 
 
